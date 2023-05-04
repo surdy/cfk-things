@@ -1,0 +1,4 @@
+eks-terraform/.terraform
+eks-terraform/.terraform.lock.hcl
+eks-terraform/terraform.tfstate
+eks-terraform/terraform.tfstate.backup
